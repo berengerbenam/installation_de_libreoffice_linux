@@ -1,0 +1,4 @@
+apt-add-repository ppa:libreoffice/ppa
+apt full-upgrade
+apt-get install libreoffice
+apt-get update
